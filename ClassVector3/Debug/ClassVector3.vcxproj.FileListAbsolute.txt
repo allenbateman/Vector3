@@ -1,0 +1,2 @@
+C:\Users\allen\source\repos\ClassVector3\Debug\ClassVector3.exe
+C:\Users\allen\source\repos\ClassVector3\Debug\ClassVector3.pdb
